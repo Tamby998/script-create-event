@@ -17,8 +17,8 @@ Ce projet est une API Node.js qui interagit avec l'API Google Calendar pour cré
 
 1. Clonez ce dépôt :
    ```
-   git clone https://github.com/votre-nom-utilisateur/node-calendar-api.git
-   cd node-calendar-api
+   git clone https://github.com/Tamby998/script-create-event.git
+   cd script-create-event
    ```
 
 2. Installez les dépendances :
